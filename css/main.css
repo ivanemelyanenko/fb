@@ -1,4 +1,9 @@
-@import url("/fonts/stylesheet.css")
+@font-face {
+font-family: "Graphik"; 
+src: url("../fonts/Graphik-Regular.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
 
 
    html * {
